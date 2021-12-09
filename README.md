@@ -30,5 +30,4 @@ BARAM ROS seminar KwangWoon University BARAM 2021 winter seminar Using OpenCV to
     
     Also, we publishes the image topic by /image
     to visualize in Rviz.
-  
 ```
